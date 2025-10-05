@@ -6,7 +6,7 @@
 
 ---
 ## 🌐 Canlı Demo
-
+[👉 Click here to see the project](https://dice-game-playervscomp.netlify.app/)
 ---
 
 ## 🕹️ Oyun Özeti
